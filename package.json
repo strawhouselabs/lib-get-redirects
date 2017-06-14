@@ -1,0 +1,28 @@
+{
+  "name": "lib-list-redirects",
+  "version": "1.0.0",
+  "description": "Get a list of 301 or 302 redirects back from a request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/strawhouselabs/lib-list-redirects"
+  },
+  "author": "Giuseppe Burtini",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-config-prettier": "^2.1.1",
+    "eslint-config-strawhouse": "^3.0.3",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.8.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "request-promise": "^4.2.1"
+  }
+}
