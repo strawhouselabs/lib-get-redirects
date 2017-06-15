@@ -1,14 +1,11 @@
 {
-  "name": "lib-list-redirects",
+  "name": "lib-get-redirects",
   "version": "1.0.0",
   "description": "Get a list of 301 or 302 redirects back from a request.",
   "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
   "repository": {
     "type": "git",
-    "url": "http://github.com/strawhouselabs/lib-list-redirects"
+    "url": "http://github.com/strawhouselabs/lib-get-redirects"
   },
   "author": "Giuseppe Burtini",
   "license": "MIT",
